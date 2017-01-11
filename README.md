@@ -1,2 +1,2 @@
 # MyGitApplication
-This is fixed 1
+This is fixed 2
