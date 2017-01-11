@@ -1,2 +1,2 @@
 # MyGitApplication
-My first github project
+This is second edit
